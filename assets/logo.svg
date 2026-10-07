@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192">
+  <title>Enterpret</title>
+  <rect width="192" height="192" fill="#fff"/>
+  <g transform="translate(36 36)">
+    <rect width="120" height="120" rx="28" fill="#5B4BFF"/>
+    <path fill="#fff" d="M38 34h44c3.3 0 6 2.7 6 6s-2.7 6-6 6H50v16h28c3.3 0 6 2.7 6 6s-2.7 6-6 6H50v18h34c3.3 0 6 2.7 6 6s-2.7 6-6 6H38c-3.3 0-6-2.7-6-6V40c0-3.3 2.7-6 6-6z"/>
+    <circle cx="94" cy="40" r="10" fill="#A99BFF"/>
+  </g>
+</svg>
