@@ -21,7 +21,7 @@ For local development before Marketplace listing, clone this repo and add the pl
   "mcpServers": {
     "enterpret": {
       "type": "http",
-      "url": "https://wisdom-api.enterpret.com/server/mcp"
+      "url": "https://mcp.enterpret.com/mcp"
     }
   }
 }
@@ -29,7 +29,7 @@ For local development before Marketplace listing, clone this repo and add the pl
 
 Auth is OAuth against Enterpret. Cursor prompts for Enterpret sign-in when the plugin connects — there is no API key or client ID to configure in this plugin.
 
-Enterpret also supports Bearer tokens from **Settings → Enterpret MCP** for clients that need static credentials; this plugin uses the recommended OAuth flow.
+This plugin uses the recommended OAuth flow. The older `wisdom-api.enterpret.com` MCP URLs are deprecated; use `https://mcp.enterpret.com/mcp`.
 
 ## Notes
 
@@ -40,7 +40,7 @@ Enterpret also supports Bearer tokens from **Settings → Enterpret MCP** for cl
 
 - Enterpret MCP help center: https://helpcenter.enterpret.com/en/articles/12665166-enterpret-mcp-server
 - Enterpret MCP product page: https://www.enterpret.com/platform/enterpret-mcp-server
-- Server URL: https://wisdom-api.enterpret.com/server/mcp
+- Server URL: https://mcp.enterpret.com/mcp
 - Homepage: https://www.enterpret.com
 
 Logo is a simple Enterpret-like mark on a white tile, using brand indigo `#5B4BFF`.

@@ -2,7 +2,7 @@
   "mcpServers": {
     "enterpret": {
       "type": "http",
-      "url": "https://wisdom-api.enterpret.com/server/mcp"
+      "url": "https://mcp.enterpret.com/mcp"
     }
   }
 }
